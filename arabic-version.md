@@ -216,7 +216,7 @@ broot # (or 'br') lets you navigate much more easily
 ![Pasted image 20240817195151](https://github.com/user-attachments/assets/733f95bb-396d-42a6-badb-1ef14c4b96bb)
 
 
-يلزمك تخدك برشا تمارين على ال`ـnormalisation`، [هاذم تمارين باهيين](https://drive.google.com/file/d/1_lkeMfX9-xpqEGTPGT4MlbkJx0N5Es0u/view)
+يلزمك تخدم برشا تمارين على ال`ـnormalisation`، [هاذم تمارين باهيين](https://drive.google.com/file/d/1_lkeMfX9-xpqEGTPGT4MlbkJx0N5Es0u/view)
 
 [هذا فيديو باهي بش تفهم فكرة الـNormalisation](https://www.youtube.com/watch?v=GFQaEYEc8_8&feature=youtu.be)
 
