@@ -212,7 +212,7 @@ broot # (or 'br') lets you navigate much more easily
 
 ضيعت وقت كبير بش نستوعب الـ`Normalization` وشفت بااااارشا فيديوات، شهر كامل وأنا نحب نفهمها. بالختصار الفيديوهات هاذك الزوز يكفو: [الفيديو الأول](https://www.youtube.com/watch?v=sydfzxx-UQ8&feature=youtu.be) [الفيديو الثاني](https://www.youtube.com/watch?v=9n74TTF861U&feature=youtu.be) 
 
-وسر حل أي سؤال هي الحقيقة البسيطة الي اكتفتها في آخر جمعة قبل الـ`examens`:
+وسر حل أي سؤال هي الحقيقة البسيطة الي اكتشفتها في آخر جمعة قبل الـ`examens`:
 ![Pasted image 20240817195151](https://github.com/user-attachments/assets/733f95bb-396d-42a6-badb-1ef14c4b96bb)
 
 
