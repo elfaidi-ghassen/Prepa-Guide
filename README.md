@@ -169,6 +169,7 @@ Why study databases?
 ![Uploading Pasted image 20240817195151.png…]()
 
 
+
 - You have to solve so many normalization problems: [TD (with solutions)](https://drive.google.com/file/d/1_lkeMfX9-xpqEGTPGT4MlbkJx0N5Es0u/view?usp=sharing)
 - This is a good video to understand what is Normalization: [video](https://youtu.be/GFQaEYEc8_8?si=342-Uxi0hn1JoOZS)
 - There are tons of SQL problems in [Hackerrank](https://www.hackerrank.com/domains/sql): I really recommend it.
