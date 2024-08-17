@@ -166,7 +166,8 @@ Why study databases?
 	- These two are the best video on the topic:  [video 1](https://youtu.be/sydfzxx-UQ8?si=_G-__2LRPfum_E2T)  [video 2](https://youtu.be/9n74TTF861U?si=2Mt7jI5HPRGITLj4)
 - They key to solve any normalization problem is this fact:
   Si `Produit → Prix`  donc un produit donné **possede** un ==**seul**== prix
-![Uploading Pasted image 20240817195151.png…]()
+![Pasted image 20240817195151](https://github.com/user-attachments/assets/e133255a-99c7-4073-afcc-1b300736cdfb)
+
 
 
 
