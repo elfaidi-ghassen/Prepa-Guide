@@ -102,7 +102,9 @@ Either ways, before the exam make sure to review the lecture notes in the [Mega 
 **Why are we even studying this?** that's what I kept asking myself! well now I see the big picture:
 The final goal of all these material is that, after the first year of education, you'll have a solid understanding how a computer works. it's a long learning journey, and sometimes a boring one, but it's worth it. 
 
-![[Pasted image 20240817104214.png]]
+![Pasted image 20240817104214](https://github.com/user-attachments/assets/72cb0371-e1bc-4d21-a284-bf594f7ba219)
+
+
 - You'll need Thevenin Theorm in second semeter in Electronics.
 - I can't give you recommendation how to study Circuits because I didn't do well at it. but some of my classmates did really well, try asking them how to study it. (don't be shy, asking others can save you a lot of time)
 
@@ -113,7 +115,9 @@ The final goal of all these material is that, after the first year of education,
 This is an Electromagnetism class, it's the most preferred way to teach physics to Computer Science students, why? I don't really know.
 My current understanding is that it gives you deeper understanding of how networks work.
 
-![[Pasted image 20240817105108.png]]
+![Pasted image 20240817105108](https://github.com/user-attachments/assets/7f9a36ee-b9bb-4159-9f07-2c20e684ec61)
+
+
 I did nothing but follow the professor's instructions and solve the problems she assigned and did well, I don't have any recommendations of how you study it. 
 Again if you're BAC INFO, you need to review trigonometry.
 ## 10. Operating Systems
@@ -162,7 +166,8 @@ Why study databases?
 	- These two are the best video on the topic:  [video 1](https://youtu.be/sydfzxx-UQ8?si=_G-__2LRPfum_E2T)  [video 2](https://youtu.be/9n74TTF861U?si=2Mt7jI5HPRGITLj4)
 - They key to solve any normalization problem is this fact:
   Si `Produit → Prix`  donc un produit donné **possede** un ==**seul**== prix
-![[Pasted image 20240817195151.png]]
+![Uploading Pasted image 20240817195151.png…]()
+
 
 - You have to solve so many normalization problems: [TD (with solutions)](https://drive.google.com/file/d/1_lkeMfX9-xpqEGTPGT4MlbkJx0N5Es0u/view?usp=sharing)
 - This is a good video to understand what is Normalization: [video](https://youtu.be/GFQaEYEc8_8?si=342-Uxi0hn1JoOZS)
