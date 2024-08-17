@@ -28,6 +28,7 @@
 ## برمجة بلغة السي (C Programming) 
 عملت فيديو على اليوتيوب فيه أهم النصايح وخاصة التعامل مع `Visual Studio`: [تنجم تشوفه على يوتيوب](https://youtu.be/swj9daGlX4k)
 **ملاحظات**
+
 ننصحك تشوف [الفيديو هذا](https://youtu.be/LfkBOKwsTc0?si=NvBCTG-C5EDDwuqV) بش تفهم علاش من المهم أنك تتعلم لغة السي، وكيفاش تتعلم لغات البرمجة، والفرق (المهم) بين البرمجة ولغات البرمجة. 
 
 حاول تركز على مصدر واحد: من الأغلاط الي عملتها هي أني كنت متحمس أكثر من الازم وغرقت بين الكتب وفيديوات اليوتيوب والمقالات وألف حاجة. ننصح تركز على دورة/كتاب/`playlist` وحدة وتلتزم بيها حتى النهاية بش تجنب التشتيت.
@@ -44,6 +45,7 @@
 نشوف أن (`Debugging`) مهارة عظيمة وتعاون برشا بش تصلح الأغلاط في الكود بسرعة، خاصة في المشاريع الكبيرة، تعلمها إذا كان عندك وقت.
 
 حاول تتعلم الـ`Recursion` مليح واخدم عليها برشا، هي موضوع أساسي تستحقه برشا.
+
 في آخر السداسي، حاول تتعلم وتتقن الـ`Pointers` وموضوع الـ `Dynamic Memory Allocation`، بش تستحقها برشا في الـ`Algorithme` في السداسي الثاني. حتى إذا لم ما قراها الأستاذ، ننصحك تعلمها وحدك.
 
 **المصادر الي عاونتني**:
@@ -55,12 +57,15 @@
 
 
 [هذوما فيديوهات ممتازين](https://youtube.com/playlist?list=PL3X--QIIK-OEwPmZVfltqCYy6_RuwXr4A&si=Yb_o-2zIlI4uCnau): هما بلغة `++C` ولكنها تعلمت منهم فكرة مهمة برشا، وهي الـ`Functional Composition`.
+
 موقع [Hackerrank](https://www.hackerrank.com/domains/c) فيه برشا تمرينات باهيين باللغة الانجليزية، تنجم تحاول تحلها.
+
 وموقع [Exercism](https://exercism.org/tracks/c) خيار باهي زادا.
 
 (مرة أخرى، ما تشوش على نفسك بكثرة المصادر، اختار واحد والا اثنين وركز عليهم)
 
 **إذا كان لديك مستوى باهي في اللغة الإنجليزية:**
+
 شرح الـ[Pointers](https://github.com/jflaherty/ptrtut13/blob/master/md/pointers.md): هذا شرح مزيان (لكن متقدم شوي)
 
 كتاب: `The C Programming Language: A Modern Approach`، فيه برشا تمارين باهية.
@@ -70,11 +75,13 @@
 ## اللغة الإنجليزية 
 في المادة هذي تراجع شوي قواعد في اللغة الانجليزية وتتعلم المصطلحات الإنجليزية متاع `Business`.
 جدير بالذكر أنه في الجمعة الثالثة، كانت القسم تقريبا فارغ، الظاهر أنه مش برشا مهتمين يقروا انجليزية، (وما نلومهمش) فكر إذا كان الأمر يستحق بش تحضر.
+
 وعلى كل حال، قبل الامتحان يلزم تراجع الدروس الي في [Mega](https://mega.nz/folder/l9lxhZIZ#99PqDbMy3XtERrSsqDCIoQ/folder/httUnazT).
 
 [ملخص الإنجليزية  السداسي الثاني](https://drive.google.com/file/d/1ktpEVR5KIo0x8UBapTi9UH_lD_vndpSR/view?usp=sharing)
 
 إذا ما كنتش باهي في اللغة الإنجليزية، يلزم تعرف هي مهمة برشا في نجاحك المجال هذا، لأن برشا كتب ودورات موجودة فقط باللغة الإنجليزية.
+
 [هذا فيديو باهي عن المسألة هذي](https://youtu.be/ucEIHPPe17s?si=WsN8NzNj04Qmuidc)
 
 اذا مستواك ضعيف ننصحك بقنوات وتطبيقات إبراهيم عادل (تطبيق `Taleek` و`ZamericanEnglish`)، حسب تجربتي إذا كنت تقدر تحط 30 دقيقة كل يوم بش تقرا انجليزية تنجم تتحسن برشا في عام والا اثنين.
@@ -84,33 +91,44 @@
 
 ## مادة الـOptique
 [فيديو يوتيوب](https://www.youtube.com/watch?v=fyYaDeTonVQ): ننصحك شوف الفيديو هذا بش تفهم الفرق بينImage` Virtuelle` و`Image Réelle`
+
 لازم تكون فاهم الـ`Trigonometrie` مليح `(sin/cos/tan...etc)`، فإذا كنت باك أنفو، للأسف، لازم تتعلمها وحدك، موقع [Khan Academy](https://www.khanacademy.org/math/trigonometry) مصدر باهي. واطلب من أصحابك يعاونوك.
+
 [هذا محاكي مزيان](https://phydemo.app/ray-optics/simulator/)/ لكن مش مفيد برشا
 
 
 ##  الويب Web Statique
-أول حاجة حاول أفهم شنوا الويب وعلاش لازم تتعلم `HTML`، الفيديو هذا مقدمة باهية.
+أول حاجة حاول أفهم شنوا الويب وعلاش لازم تتعلم `HTML`، [الفيديو هذا مقدمة باهية](https://www.youtube.com/watch?v=EB_9bmDrK0k).
+
 ما ننصحش باستخدام `Visual Studio Code` لأنه يكمل الكود وحده ويخليك تعتمد عليه برشا، وفي الامتحانات لازم تكتب بيدك على الورفة. فننصح أنك تستعمل `++Notepad`.
+
 إذا تحب تستعمل `++Notepad`،  فخليه يسكر الـ`Balise` وحده، [شوف الفيديو هذا بش تفهم.](https://www.youtube.com/watch?v=zJgm_RspEgU)
 
 لكن اذا الأستاذ أعطاكم مشروع استعمل `Visual Studio Code` لأنه يسهل عليك الخدمة بش ما تضيعش برشا وقت.
+
 وصب الاضافة هذي:  [LiveServer extension](https://youtu.be/_Tl-6HeV0Rc?si=ql9uARUb82Sm8hKz)
+
 [وفي الفيديو هذا فما نصايح متقدمة عن الـVisual Studio](https://www.youtube.com/watch?v=UuBRd7GeARg)، مش لازم تعرفها ملول، لكن اذا عندك وقت شوفهم.
 
-أحسن حاجة في اليوتيوب لقيتها هي كورس (`=Course`) المصري أسامة محمد، من أحسن ما فما ويفيدك برشا. [هنا الموقع وفيه تمارين](https://elzero.org/study/html-2021-study-plan/) و[هنا على يوتيوب](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+أحسن حاجة في اليوتيوب لقيتها هي كورس (`=Course`) المصري أسامة محمد، من أحسن ما فما ويفيدك برشا.
+
+[هنا الموقع وفيه تمارين](https://elzero.org/study/html-2021-study-plan/) و[هنا على يوتيوب](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
 وتنجم تشوف `FreeCodeCamp` على يوتيوب، عندهم برشا حاجات باهية.
+
 والحقيقة فما بارشا حاجات باهية على يوتيوب، أهم شيء أنك تختار حاجة وحدة وتركز عليها، ما تشتتش نفسك بين برشا حاجات.
 
 
 ## الرياضيات Analys` / Algebre
 كلامي موجه للي كان يقرا `Bac Info`
+
 مرحبا بيك في الملحمة العظيمة هذي. تجربتي مع الـMath كانت للأسف خايبة لحد كبير، بسبب أنه ما عندي أساس قوي في المادة هذي، وممكن تكون حالتك كيما حالتي، ولأن هذي ممكن تكون أصعب تجربة تصيرلك في الجامعة، نحب نحكيلك أربع نقاط:
 
 1. ما تستسلمش، وما تطيحش الـ`Math`، اذا تبذل كل جهدك وتكبس روحك أنت قادر أنك تجيب حاجة قريبة للعشرة. (يمكن راك تضحك)
 2. ممكن زادا تبذل كل جهدك، وفي لخر تجيب أقل من 5/20، أمر عادي علخر، وممكن جدا، لكن اذا تبذل كل جهدك مش بش يكون في قلبك ندم (نتفكر وقت جبت 9/20 في `Analyse 1` عملت حفلة في الدار مع أصحابي وفرحولي برشا على "الانجاز" هذا: ما كنتش نادم على حتى شيء لأن حاولت أقصى ما نقدر في حالتي)
 3. تنجم تمشي أمرورك مانغير ما تتميز في الـ`Math`، أنا جبت معدل متوسط (14/20) رغم أني ضعيف برشا في الـ`Math`
 4. لكن، يمكن يكون عندك الامكانية بش تتحسن وتتميز، ما فما شيء مستحيل، كل انسان عنده نقاط قوة وضعف، أنت تعرف روحك، فما تقارن روحك بأي حد، هذي رحلتك أنت، والطريق طويل، فاصبر يا خويا ما فماش شيء صعيب ان شاء الله، وكيما يقول شيخي:
+5. 
 > **عليك بمضمار سباقك أنت ونفسك، ولا تنشغل بمضامير سباقات الآخرين**
 
 ## مادة الـCircuits
@@ -120,23 +138,27 @@
 ![Pasted image 20240817104214](https://github.com/user-attachments/assets/2a58fbb5-dc38-4f83-8a30-56c06b4ad78a)
 
 حاول افهم مليح `Théorème Thevenin` لأنك بش تستحقه في السداسي الثاني.
+
 والحقيقة ما نجمش ننصحك كيفاش تريفز للمادة هذي لأني ما قديتش روحي فيها، لكن فما من أصحابي الي قراو معايا شكون كان متميز فيها (ننصحك ما تكون خجول واحكي معاهم، سؤالك للناس المجربة يختصر عليك برشا وقت ومجهود)
 
 
 ## مادة الـOndes
 باهي وهذي علاش نقروا فيها؟
+
 مادة الـ`Electromagnetisme` يقروا فيها في برشا جامعات في العالم للناس الي تقرا `Computer Science`، كيما جامعة `MIT` المعروفة، علاش؟ الحقيقة مش عارف. لكن حسب ما فهمت، اولا هي تطبيق ممتاز للـ`Analyse 3` الي بش تقراه العام الثاني (تطبيق قبل ما تقراه...) وثانيا هي تعطيك فهم أعمق للشبكات (`Networks`)
 
 ![Pasted image 20240817105108](https://github.com/user-attachments/assets/78cb7e1d-b055-4701-bd2a-865aae1db6ed)
 
 
 ما عملت شيء سوى أني تبعت الي قالت عليه الأستاذة، وجبت `note` باهية، ما عنديش أي نصيحة كيفاش تريفز للمادة، فعليا يلزمك تتبع كلام الأستاذة أكاهو.
+
 ومرة أخرى، اذا انت `Bac Info` يلزمك تراجع `Trigonometrie`
 
 ## أنظمة التشغيل - Operating Systems
 المادة هذي نظرية بشكل كبير، وفي الامتحان يلزمك تكون تكتب برشا `Definitions`... فراجع الامتحانات القديمة لأن بعض الأسئلة تتعاود.
 
 لكن استمتعت برشا في الجانب التطبيقي (`Linux` and `Command Line`)
+
 لكن بصراحة الجانب التطبيقي مش بش يأثر على معدلك، فالخيار يعود ليك اذا تحب تستثمر وقتك في الحكاية هذي.
 
 [ننصحك بالفيديوهات هاذم بش تتعلم الـCommand Line](https://www.youtube.com/watch?v=av0UQy6g2FA)
@@ -144,7 +166,9 @@
 صب `Ubuntu` على `VirtualBox` وتعلم استعمله، لكن ننصح زادا تجرب `WSL` وهي اختصار ل`ـWindows Subsystem for Linux` والي تخليك تسعمل `Command Line` متاع `Ubuntu` مباشرة في `Windows`، وهذا أسرع وأكثر فايدة، واذا البيسي متاعك رزين هذاكا سبب آخر بش تستعملها.
 
 **بعد ما تتعلم الأساسيات:**
+
 [تعلم كيفاش تصب Packages في Ubuntu](https://www.youtube.com/watch?v=RLGFiUbr6hs)
+
 جرب تصب هاذم، يفيدوك برشا
 
 ```shell
@@ -154,7 +178,9 @@ sudo apt install (packageName)
 tldr # better manual pages: example "tldr mv" (will explain to you the command mv)
 broot # (or 'br') lets you navigate much more easily
 ```
+
 - أفهم شنوا الـ`PATH` في `Windows` و`Linux`.
+- 
 ومرة أخرى، الشيء هذا مش مؤثر على معدلك، اذا عندك وقت توسع وحدك، لكن اذا ما عندكش وقت عادي، يستنى فيك صيف طويل تعلم فيه الي تحب.
 
 
@@ -177,35 +203,52 @@ broot # (or 'br') lets you navigate much more easily
 
 ## قواعد البيانات - Database
 علاش من المهم أنه نقرا `database`؟
+
 [الفيديو هذا مقدمة باهية](https://www.youtube.com/watch?v=tTzR-cyezuQ)
+
 [الفيديوهات هاذم من جامعة `Berkely` باللغة الانجليزية يجاوبوا على السؤال هذا](https://www.youtube.com/playlist?list=PLzzVuDSjP25RAJy6VMk3_hZZcRVxCq3xu)
+
 [الفيديوات هاذم عاونوني بش نفهم الـMCD](https://www.youtube.com/playlist?list=PL5v61AVkUtCa7RluR5Zmi2GuGH98mmyEv)
+
 ضيعت وقت كبير بش نستوعب الـ`Normalization` وشفت بااااارشا فيديوات، شهر كامل وأنا نحب نفهمها. بالختصار الفيديوهات هاذك الزوز يكفو: [الفيديو الأول](https://www.youtube.com/watch?v=sydfzxx-UQ8&feature=youtu.be) [الفيديو الثاني](https://www.youtube.com/watch?v=9n74TTF861U&feature=youtu.be) 
+
 وسر حل أي سؤال هي الحقيقة البسيطة الي اكتفتها في آخر جمعة قبل الـ`examens`:
 ![Pasted image 20240817195151](https://github.com/user-attachments/assets/733f95bb-396d-42a6-badb-1ef14c4b96bb)
 
 
 يلزمك تخدك برشا تمارين على ال`ـnormalisation`، [هاذم تمارين باهيين](https://drive.google.com/file/d/1_lkeMfX9-xpqEGTPGT4MlbkJx0N5Es0u/view)
+
 [هذا فيديو باهي بش تفهم فكرة الـNormalisation](https://www.youtube.com/watch?v=GFQaEYEc8_8&feature=youtu.be)
 
 فما برشا تمارين في [HackerRank](https://www.hackerrank.com/domains/sql)، ننصحك بيهم.
+
 [هذا كورس ممتاز](https://programmingadvices.com/p/database-level-1-sql-concepts-and-practice) لكن مش بلاش (سومه 20$ وتنجم تاخذه بلاش اذا ما تقدرش تدفع، الـ`Coupon` موجود في الموقع) 
 
 ## مادة الـAutomatique
+
 علاش نقروا في المادة هذي؟ ما عندي حتى فكرة، لكن يمكن تفيدك اذا تحب جو الروبوتيك. المادة مقسمة لجزئين، `Automatique` (بالانجليزية `Control Theory`)
 وجزء أسهل وأقصر اسمه `Automatisme` (بالانجليزية `Automation`).
+
 [الفيديو هذا مقدمة باهية (بالانجليزية)](https://www.youtube.com/watch?v=oBc_BHxw78s&feature=youtu.be)
+
 [الفيديو هذا تطبيق عملي](https://www.youtube.com/watch?v=LfydfvHyikM)
+
 [الفيديوهات هاذم (بالانجليزية) عاونوني بش نفهم رسم Bode](https://www.youtube.com/playlist?list=PLUMWjy5jgHK24TCFwngV5MeiruHxt1BQR)
+
 [الفديوهات هاذم ما تفرجتش فيهم لكن نعرف القناة هذي وسمعتها باهية](https://www.youtube.com/playlist?list=PL08ef9eJxtJZvLVfXjtm-yleVS8nNRCub)
+
 [هذا ملخص لقيته على الانترنات](https://drive.google.com/file/d/13Qwi04uxmoBHhIJKvLvhkO5EOVPheqMx/view?usp=sharing) (ناقص حاجات وزايد حاجات لكن يمكن يفيدك)
 
 بالنسبة لل`ـAutomatisme` تفرجت في [الفيديوهات هاذم](https://www.youtube.com/playlist?list=PLLm4fCqeR1_Kb9u1x8rrsOe2oAFGaUmdp) وعاونوني برشا بش نجيب `note` باهية، لكن الجودة متاعهم رديئة علخر. يمكن تلقى فيديوهات ما خير.
+
 [وهذا ملخص عملته](https://drive.google.com/drive/folders/1jxT8GLmXjBM4n89SdEa2nsoSqu3wJhEq)
 
 ##  الويب: Web Statique 2
+
 نصحت برشا بكورسات أسامة محمد، وبش نكمل ننصح بكورس الـ`CSS` متاعه، من أحسن ما ريت، الراجل عنده خبرة كبيرة ويعلمك حاجات ما تلقاهمش حتى في الكتب.
+
 واذا ناوي تتبعه، مش لازم تكمل الكورس كامل، حاول شوف الي تقدر، وتنجم ترجعلها اذا اكتشفت أنك تحب `development web`: هنا [الفيديوات](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) وهنا [التمارين](https://elzero.org/category/assignments/css-assignments/)
+
 وتنجم تشوف `FreeCodeCamp` اذا ما عجبكش كورس أسامة.
 
 [اللعبة هذي تعاونك بش تفهم الـSelecteurs](https://flukeout.github.io/)
@@ -218,6 +261,7 @@ broot # (or 'br') lets you navigate much more easily
 شوف في الانترنات واعرف الفرق بين `Algorithme وStructures des données`
 
 ننصح أنك تاخذ وقتك وتعمل الـ`Structuers de données` كيما (`Liste chainée` مثلا) وحدك في لغة السي (والا بايثون)، هذا يجبرك بش تفهم، لكن مجرد أنك تقرا الكور ما يكفيش.
+
 وننصح [استعمل السيت هذا بش تعمل visualization](https://pythontutor.com/c.html#mode=edit)
 
 من أهم الحاجات أنك فاهم وتكون قادر تكتب بسرعة ومنغير برشا تفكير الـ`Definition` متاع الـ`variables` وال`structures` في ال`ـPartie declaratif`.
@@ -228,6 +272,7 @@ broot # (or 'br') lets you navigate much more easily
 
 ## الـArchitetcture
 حسب تجربتي الي قريناه في القسم كان كافي، فقط بقيت نعاود في الـ`TDs`.
+
 هاذم فيديوهات (بالانجليزية) عاونوني بش نفهم أكثر: [الأولى](https://www.youtube.com/playlist?list=PLTd6ceoshprcpen2Jvs_JiuvWvqIAkzea) [والثانية](https://www.youtube.com/playlist?list=PLTd6ceoshprfg23JMtwGysCm4tlc0I1ou)
 
 ## مسألة مهمة: The Imposter Syndrome 
@@ -235,12 +280,12 @@ broot # (or 'br') lets you navigate much more easily
 ومبعد تبدا تشك في نفسك وفي قدراتك.
 هذي حكاية منتشرة بشكل مخيب بين الطلاب لدرجة أعطوها اسم:متلازمة الدخيل (`Imposter Syndrom`) لأنك تحس أنك دخيل وموش في بلاصتك.
 وهو وهم أنك مش مؤهل بش تخدم وتتميز في المجال هذا.
-وخصوصا في البرمجة والاعلامية الأمر منتشر برشا في فئة الاناث، وهذا الي يخلي برشا يحاولوا يشجعوا البنات، (كيما `IEEE` و`حملات Tech Women Empowerment` : بينما هذي حاجة كيما هما ما تلقاهاش الجامعات الي تقري طب مثلا)  (أنا عندي تحفظات اختلافات فكرة جذرية مع فلسفات كيما النسوية، لكن فقط نحب نبين الي المسألة فعلا منتشرة وليها ضرر كبير على الطلبة والطالبات)
+
+وخصوصا في البرمجة والاعلامية الأمر منتشر برشا في فئة الاناث، وهذا الي يخلي برشا يحاولوا يشجعوا البنات، (كيما `IEEE` و`حملات Tech Women Empowerment` : بينما هذي حاجة كيما هما ما تلقاهاش الجامعات الي تقري طب مثلا) (أنا عندي تحفظات اختلافات فكرة جذرية مع فلسفات كيما النسوية، لكن فقط نحب نبين الي المسألة فعلا منتشرة وليها ضرر كبير على الطلبة والطالبات)
 
 هو زادا مش تخصصي بش نحكي على المسألة هذي، لكن ننصح برشا أنك تقرا عليها، فما برشا يحكوا عليها، [هذا أحسن فيديو](https://www.youtube.com/watch?v=K4PO7ejY8LA)(بالانجليزي) على الحكاية هذي وان كان جودته طايحة. وهذا جزء من الفيديو:
-> Boy, these people are really good. They get this stuff, they can answer the teacher's questions, they can do the homework, they can do fine on the test. But I," the tape inside the head continues, "I'm really not." Right? I've managed to fool them all over the years, the tape goes, my friends, my family, my teachers, into thinking that I'm this real hotshot who belongs at this first-class university taking engineering, taking science, taking economics, whatever I'm taking. 
-> But I know better. 
-> The tape continues, "The very next tough question I get in class, the very next hard test that I have to take, that's what's going to finally once and for all reveal me as the fraud, the phony, the imposter that I know I am." 
+
+> Boy, these people are really good. They get this stuff, they can answer the teacher's questions, they can do the homework, they can do fine on the test. But I," the tape inside the head continues, "I'm really not." Right? I've managed to fool them all over the years, the tape goes, my friends, my family, my teachers, into thinking that I'm this real hotshot who belongs at this first-class university taking engineering, taking science, taking economics, whatever I'm taking.  But I know better. The tape continues, "The very next tough question I get in class, the very next hard test that I have to take, that's what's going to finally once and for all reveal me as the fraud, the phony, the imposter that I know I am." 
 
 ورغم كل هذا، كلامي مش بش نحسسك والا نحسس روحي الي أمورنا ممتازة وكل شيء على أحسن ما يرام. كل واحد أكيد عنده عيوب يلزم يحاول يصلحها، **لكن!** الفكرة أنك تعبت واجتهدت برشا بش وصلت في البلاصة الي انت فيها، أنا على يقين أنك بإذن الله قادر تكمل تنجح في قرايتك وحياتك. وهذا كلام نذكر بيه نفسي ونذكركم، مش لازم تقارن نفسك بأي حد، هذي رحلتك أنت وحدك، بالنجاحات والعقبات الي فيها. 
 وكيما قلت مبكري، مش تخصصي بش نحكي في المسألة هذي، لكن فقط نذكر لأن الصحة النفسية في آخر الأولويات عن أغلبية الناس...
@@ -251,17 +296,27 @@ broot # (or 'br') lets you navigate much more easily
  > **لا ينال العلم اثنان: مستحي ولا مستكبر**
  
  شخصيا واجهت المشكلة هذي، خاصة أنه في برشا أوقات، ما فما حد غيري يسأل، فحسيت أني غبي وتحشمت نسأل، لكن مبعد فهمت المسألة مش حشمة، المسألة ضعف.
+ 
  والانسان بطبعه يحب تكون صورته باهية قدام الناس، وهذا الي يخلي برشا يستعملوا مواقع التواصل ويبينوا للناس أحسن ما فيهم، لحد كبير هو أمر فطري وطبيعي لكن وقت يوصل أنك مش قادر تسأل سؤال لأنه ممكن حد تتبدل فكرته، هنا مشكلة. هذا تعظيم للناس واعطائهم فوق حقهم. ما نقصدرش `I don't care about people` وهراء المراهقين، نقصد الي الانسان يلزم يحاول يكون متوازن. وهي حاجة مش ساهلة، ومازلت نعاني من المشكلة هذي الى حد ما وان كنت ما عادش نحشم بش نسأل. والله المستعان.
 
 ## نصايح عامة متنوعة
+
 اذا جديد على أمور البرمجة والـinfo عادي علخر، ما فما حد متوقع منك أنك فاهم حتى حاجة (الا أساتذة المات متوقعين منك تكون Pythagoras متاع زمانك :) just kidding.
+
 اذا شريت بيسي ومازلت ماتعودتش عليه ننصحك تشوف الفيديوهات هاذم:
+
 [تعلم كيف تستعمل الـtouchpad](https://www.youtube.com/watch?v=d3Nh3fJZpy4&feature=youtu.be)
+
 [حل الـclipboard](https://www.youtube.com/watch?v=fE9XYB3gNVs&feature=youtu.be)
+
 [صب WinRar (والا حاجة كيفه) وتعلم كيفاش تعمل Compression/Extraction](https://www.youtube.com/watch?v=9bA8Yh0EtbQ&feature=youtu.be)
+
 [اذا تحب تعلم shortcuts](https://www.youtube.com/watch?v=uP0kd9_47-o&feature=youtu.be)
+
 [اذا عندك وقت بزايد تعلم الـPowertoys](https://www.youtube.com/watch?v=XzV0GS8GpTI&feature=youtu.be)
+
 [اذا عندك وقت بزايد تعلم ShareX](https://youtu.be/dGDWgl7MxMM?si=LA-mh0zPR5LMcsrE)
+
 [صب Ad Blocker بش يفسخ الاشهارات الي تضهرلك](https://chromewebstore.google.com/detail/adblock-%E2%80%94-block-ads-acros/gighmmpiobklfepjocnamgkkbiglidom)
 
 
