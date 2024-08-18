@@ -11,7 +11,7 @@
 4. الخوارزميات (ASD)
 5. مادة الـOptique
 6. الويب Web Statique
-7. الرياضيات Analyse / Algebre
+7. الرياضيات Analyse / Algebre (كلام موجه للـbac info)
 8. مادة الـCircuits
 9. مادة الـOndes
 10. أنظمة التشغيل - Operating Systems
