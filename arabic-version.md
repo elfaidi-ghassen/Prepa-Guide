@@ -165,6 +165,8 @@
 
 صب `Ubuntu` على `VirtualBox` وتعلم استعمله، لكن ننصح زادا تجرب `WSL` وهي اختصار ل`ـWindows Subsystem for Linux` والي تخليك تسعمل `Command Line` متاع `Ubuntu` مباشرة في `Windows`، وهذا أسرع وأكثر فايدة، واذا البيسي متاعك رزين هذاكا سبب آخر بش تستعملها.
 
+بالنسبة لـVirtualBox، ما تنجمش تعمل copy/paste بينه وبين windows، يلزمك تبدلها في الاعدادات، شوف الفيديو هذا: [video](https://www.youtube.com/watch?v=DC5NngsIhcw)
+
 **بعد ما تتعلم الأساسيات:**
 
 [تعلم كيفاش تصب Packages في Ubuntu](https://www.youtube.com/watch?v=RLGFiUbr6hs)
@@ -180,7 +182,7 @@ broot # (or 'br') lets you navigate much more easily
 ```
 
 - أفهم شنوا الـ`PATH` في `Windows` و`Linux`.
-- 
+
 ومرة أخرى، الشيء هذا مش مؤثر على معدلك، اذا عندك وقت توسع وحدك، لكن اذا ما عندكش وقت عادي، يستنى فيك صيف طويل تعلم فيه الي تحب.
 
 
