@@ -170,6 +170,7 @@
 **بعد ما تتعلم الأساسيات:**
 
 [تعلم كيفاش تصب Packages في Ubuntu](https://www.youtube.com/watch?v=RLGFiUbr6hs)
+- تنجم تستعمل [shellcheck](https://www.shellcheck.net/) بش تلقى الـerrors في سكريبت الـbash، وتنجم تستعمل [shellexplain](https://explainshell.com/) بش تفهم سطر كود
 
 جرب تصب هاذم، يفيدوك برشا
 
