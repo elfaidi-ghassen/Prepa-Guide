@@ -124,6 +124,8 @@ Again if you're BAC INFO, you need to review trigonometry.
 The class is very theoretical, and exams will ask you write a lot of definitions...
 Make sure to study older exams, some questions repeat.
 
+important, at first you can't copy/paste between VirtualBox and Windows, but you can change that in the settings, [watch this video](https://www.youtube.com/watch?v=DC5NngsIhcw)
+
 I enjoyed more the practical side of it: (Linux and Command Line)
 But to be honest, **it won't really affect your grades at all**, so you have to decide if it's worth your time:
 - I recommend this [Command Line Playlist](https://youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT&si=UUZndbvL_74fhc6t)
@@ -131,6 +133,8 @@ But to be honest, **it won't really affect your grades at all**, so you have to 
 - But I recommend WSL (Windows Subsystem for Linux), which installs Ubuntu as a command line in windows, it's much faster and much more useful in my experience, and especially if emulating Ubuntu in VirtualBox is slow in your computer.
 	- [Youtube Video](https://youtu.be/av0UQy6g2FA?si=ddAD23Vd4Vrkjow3)
 - Learn how to install packages: try these in linux shell: [Youtube Video](https://youtu.be/RLGFiUbr6hs?si=cmg8wYzMjM5HEFag>)
+- You can use [shellcheck](https://www.shellcheck.net/) to find error in your bash scripts, and you can use [shellexplain](https://explainshell.com/) to explain a command
+
 ```shell
 sudo apt update
 sudo apt install (packageName)
